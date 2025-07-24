@@ -30,8 +30,6 @@ import javax.swing.JTextField;
 
 
 // IAN TAILLU VILLAMIL FLORES.
-// MAURICIO CLEMENTE BARRAGAN.
-// EQUIPO 5
 
 
 public class Prueba {
@@ -940,7 +938,7 @@ private void bucketSortISBN(List<Libro> arr) {
     }
 
     for (Libro libro : arr) {
-        int idx = (libro.getISBN() - min) % range; // Utiliza el operador % para asegurarte de que el índice esté dentro del rango
+        int idx = (libro.getISBN() - min) % range; 
         buckets[idx].add(libro);
     }
 
@@ -1229,7 +1227,6 @@ for (int i = 0; i < Biblioteca.size(); i++) {
         return true;
     }
     
-    // Método para verificar si los datos están ordenados
     public boolean datosOrdenadosPorISBN() {
         for (int i = 0; i < Biblioteca.size() - 1; i++) {
             if (Biblioteca.get(i).getISBN() > Biblioteca.get(i + 1).getISBN()) {
@@ -1328,10 +1325,10 @@ for (int i = 0; i < Biblioteca.size(); i++) {
     long inicio = System.nanoTime();
     String resultadoBusqueda = "";
 
-    if (ListaOrdenada) { // Agrega una condición para verificar si los datos están ordenados
+    if (ListaOrdenada) {
         resultadoBusqueda += "\t\t\t==========NUEVO REPORTE GENERADO==========\t\t\t\n";
 
-        // Write data to file
+        
         try (BufferedWriter writer = new BufferedWriter(new FileWriter("C:\\Users\\ianvi\\Documents\\REPORTES\\Reporte_Ordenamiento.txt"))) {
             writer.write("ID\tISBN\tTitulo\t\t\tTema\t\tAutor\t\tAño\n" );
             for (Libro libro : Biblioteca) {
@@ -1367,7 +1364,7 @@ for (int i = 0; i < Biblioteca.size(); i++) {
         System.out.println("3.- Salir.");
         int opc = leer.nextInt();
         
-            leer.nextLine(); // consume the newline character left over from the previous input
+            leer.nextLine(); 
         
         switch(opc){
             case 1:
