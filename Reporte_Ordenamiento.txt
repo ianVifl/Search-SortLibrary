@@ -1,0 +1,925 @@
+1	1715		Las confesiones de Nat Turner		Romance	William Styron1967
+2	1515		Llamalo sueno		Novela	Henry Roth1934
+3	1217		La broma infinita		Novela	David Foster Wallace1996
+4	1079		Yo Claudio		Historico	Robert Graves1934
+5	1806		El almuerzo desnudo		Novela	William S. Burroughs1959
+6	1937		En Nadar dos Pajaros		Aventura	Flann O Brien1939
+7	1872		Hijo nativo		Novela	Richard Wright1940
+8	1873		Todo se desmorona		Aventura	Chinua Achebe1958
+9	1654		Rebelion en la granja		Ficcion	George Orwell1945
+10	1592		Todos los hombres del rey		Epoca	Robert Penn Warren1946
+11	6232		El dependiente		Novela	Bernard Malamud1957
+11	1375		El Leon la Bruja y el Armario		Fantasia	C.S. Lewis1950
+12	5522		La plenitud de la señorita Brodie		Romance	Muriel Spark1962
+12	1477		Al faro		Ficcion	Virginia Woolf1927
+13	9625		Corre conejo		Aventura	John Updike1960
+13	1463		Adios a Berlín		Aventura	Christopher Isherwood1939
+14	1595		El periodista deportivo		Aventura	Richard Ford1986
+15	1835		Las correcciones		Aventura	Jonathan Franzen2001
+16	7196		Vía revolucionaria		Ficcion	Richard Yates1961
+16	1757		La subasta del lote 49		Ficcion	Thomas Pynchon1966
+17	24		El hombre que amaba a los niños		Novela	Christina Stead1940
+17	1622		Herzog		Ficcion	Saul Bellow964
+18	5814		Bajo la red		Novela	Iris Murdoch1954
+18	7845		Alguien voló sobre el nido del cuco		Aventura	Ken Kesey1962
+18	1045		Los reconocimientos		Aventura	William Gaddis1955
+19	2176		Dog Soldiers		Aventura	Robert Stone1975
+19	1307		Corre conejo		Aventura	John Updike1960
+19	1844		El guardian entre el centeno		Novela	J.D Salinger1951
+20	1239		Deliverance		Novela	James Dickey1970
+21	521		Pálido fuego		Novela	Vladimir Nabokov1962
+21	1777		El plantador de tabaco		Aventura	John Barth1960
+22	2597		El día de la langosta		Aventura	Nathanael West1939
+22	613		Pastoral americana		Novela	Philip Roth1997
+22	1847		Cita en Samarra		Aventura	John O Hara1934
+23	1705		Cosecha roja		Misterio	Dashiell Hammett1929
+23	3555		En el camino		Aventura	Jack Kerouac1957
+23	1002		La muerte llama al arzobispo		Terror	Willa Cather1927
+24	1139		En casa		Romance	Marilynne Robinson1980
+25	6916		Al faro		Ficcion	Virginia Woolf1927
+25	1924		La plenitud de la señorita Brodie		Romance	Muriel Spark1962
+26	1049		El gran Gatsby		Novela	F.Scott Fitzgerald1925
+26	1889		Ancho mar de los Sargazos		Aventura	Jean Rhys1966
+28	3802		Lolita		Novela	Vladimir Nabokov1955
+28	6597		Las confesiones de Nat Turner		Romance	William Styron1967
+28	1830		El dia de la langosta		Aventura	Nathanael West1939
+29	6149		Todos los hombres del rey		Epoca	Robert Penn Warren1946
+29	1944		Hijos de la medianoche		Misterio	Salman Rushdie1981
+30	9920		La muerte del corazón		Romance	Elizabeth Bowen1938
+30	2212		Retorno a Brideshead		Novela	Evelyn Waugh1945
+30	1797		La señora Dalloway		Romance	Virginia Woolf1925
+31	8799		Bajo el volcán		Aventura	Malcolm Lowry1947
+31	2049		Matar a un ruiseñor		Novela	Harper Lee1960
+31	4323		Watchmen		Misterio	Alan Moore1986
+31	1658		Luz de agosto		Aventura	William Faulkner1932
+32	931		El sueño eterno		Romance	Raymond Chandler1939
+32	6046		El revés de la trama		Novela	Graham Greene1948
+32	8623		Una muerte en la familia		Misterio		James Agee1957
+32	3710		El arco iris de gravedad		Aventura	Thomas Pynchon1973
+32	1104		Sus ojos miraban a Dios		Religion	Zora Neale Hurston1937
+33	2019		En casa		Romance	Marilynne Robinson1980
+33	8691		Neuromante		Misterio	William Gibson1984
+33	1241		La hija del clerigo		Aventura	George Orwell1949
+34	1855		Tropico de Cancer		Historico	Henry Miller1934
+35	8647		La señora Dalloway		Romance	Virginia Woolf1925
+35	1352		El asesino ciego		Romance	Margaret Atwood2000
+35	1682		El hombre que amaba a los niños		Novela	Christina Stead1940
+36	4357		El ruido y la furia		Accion	William Faulkner1929
+36	346		Amor		Romance	Henry Green1945
+36	9172		El almuerzo desnudo		Novela	William S. Burroughs1959
+36	1782		Ruido de fondo		Terror	Don DeLillo1985
+37	1712		El lamento de Portnoy		Novela	Philip Roth1969
+38	3802		El señor de las moscas		Ficcion	William Golding1954
+38	1175		Las aventuras de Augie March		Aventura	Saul Bellow1953
+39	8594		El plantador de tabaco		Aventura	John Barth1960
+39	1049		Trampa 22		Misterio	Joseph Heller1961
+39	1524		La naranja mecanica		Misterio	Anthony Burgess1962
+40	4740		El Señor de los Anillos		Aventura		J. R. R. Tolkien1954
+40	2084		Expiación		Misterio	Ian McEwan2001
+40	1549		El sueno eterno		Romance	Raymond Chandler1939
+41	2003		Nunca me abandones		Indefinido	Kazuo Ishiguro2005
+41	1427		Las vinas de la ira		Aventura	John Steinbeck1939
+42	1960		Ubik		Aventura	Philip K. Dick1969
+43	8422		La suerte de Jim		Aventura	Kingsley Amis1954
+44	3588		Llámalo sueño		Novela	Henry Roth1934
+44	5691		Deliverance		Novela	James Dickey1970
+44	3706		Dientes blancos		Aventura	Zadie Smith2000
+44	1387		El hombre invisible		Indefinido	Ralph Ellison1952
+44	1456		Matadero cinco		Misterio	Kurt Vonnegut1969
+45	6786		Snow Crash		Aventura	Neal Stephenson1992
+45	1489		Dinero		Aventura	Martin Amis1984
+46	6445		Una casa para el señor Biswas		Novela	V. S. Naipaul1961
+46	9100		En la cárcel de Falconer		Misterio	John Cheever1977
+46	1602		Cosecha roja		Misterio	Dashiell Hammett1929
+47	8791		Herzog		Ficcion	Saul Bellow964
+47	5820		Beloved		Aventura	Toni Morrison1987
+47	1583		En el camino		Aventura	Jack Kerouac1957
+48	1326		Lo que nl viento se llevó		Misterio	Margaret Mitchell1936
+49	1732		Dog Soldiers		Aventura	Robert Stone1975
+50	1126		Lolita		Novela	Vladimir Nabokov1955
+51	1641		Un puñado de polvo		Aventura	Evelyn Waugh1934
+51	1410		El cielo protector		Ficcion	Paul Bowles1949
+52	1548		Ragtime		Aventura	E. L. Doctorow1975
+53	4378		Las viñas de la ira		Aventura	John Steinbeck1939
+53	7999		El cuaderno dorado		Aventura	Doris Lessing1962
+53	2826		El periodista deportivo		Aventura	Richard Ford1986
+53	1842		El señor de las moscas		Ficcion	William Golding1954
+54	1705		Alguien volo sobre el nido del cuco		Aventura	Ken Kesey1962
+55	295		El puente de San Luis Rey		Ficcion		Thornton1927
+55	1843		Pasaje a la India		Aventura	E. M1924
+56	2841		El cielo protector		Ficcion	Paul Bowles1949
+56	2108		El guardián entre el centeno		Aventura	J. D. Salinger1951
+56	1740		Bajo el volcán		Aventura	Malcolm Lowry1947
+57	1656		Bajo la red		Novela	Iris Murdoch1954
+58	8290		Yo Claudio		Historico	Robert Graves1934
+58	1701		El arco iris de gravedad		Aventura	Thomas Pynchon1973
+59	1659		Palido fuego		Novela	Vladimir Nabokov1962
+60	8042		Una tragedia americana		Novela	Theodore Dreiser1925
+60	5675		En Nadar-dos-Pájaros		Aventura	Flann O'Brien1939
+60	3034		El León la Bruja y el Armario		Fantasia	C.S. Lewis1950
+60	1028		En la carcel de Falconer		Misterio	John Cheever1977
+61	4960		Los reconocimientos			William Gaddis1955
+61	1233		Watchmen		Misterio	Alan Moore1986
+62	4521		El poder y la gloria		Ficcion	Graham Greene1940
+62	5312		El pájaro pintado		Romance	Jerzy Kosinski1965
+62	1455		El puente de San Luis Rey		Ficcion	Thornton1927
+63	4046		Play It As It Lays		Novela	Joan Didion1970
+63	1652		Are You There God Its Me		Romance	Margaret Judy Blume1970
+64	3742		Una danza para la música del tiempo		Indefinido	Anthony Powell1951
+64	5916		Hijos de la medianoche		Misterio	Salman Rushdie1981
+64	3422		Meridiano de sangre		Misterio	Cormac McCarthy1985
+64	1661		Play It As It Lays		Novela	Joan Didion1970
+65	1975		El Senor de los Anillos		Aventura	J. R. R. Tolkien1954
+66	1018		Una muerte en la familia		Misterio	James Agee1957
+67	8805		Fiesta		Aventura	Ernest Hemingway1926
+67	9250		Dinero		Aventura	Martin Amis1984
+67	1586		El asesino ciego		Romance	Margaret Atwood2000
+68	1401		La suerte de Jim		Aventura	Kingsley Amis1954
+69	9121		El espía que surgió del frío		Aventura	John Le Carré1963
+69	1629		Via revolucionaria		Ficcion	Richard Yates1961
+70	5881		Rebelión en la granja		Ficcion	George Orwell1945
+70	1369		El pajaro pintado		Romance	Jerzy Kosinski1965
+71	8744		La subasta del lote 49		Ficcion	Thomas Pynchon1966
+71	1632		El ruido y la furia		Accion	William Faulkner1929
+72	1808		Pastoral americana		Novela	Philip Roth1997
+73	1014		Trampa 22		Misterio	Joseph Heller1961
+74	1016		Todo se desmorona		Aventura	Chinua Achebe1958
+74	1804		Neuromante		Misterio	William Gibson1984
+75	1703		Meridiano de sangre		Misterio	Cormac McCarthy1985
+76	9115		Ubik		Aventura	Philip K. Dick1969
+76	6037		Ruido de fondo		Terror	Don DeLillo1985
+76	1333		El espia que surgió del frio		Aventura	John Le Carre1963
+77	1460		El revés de la trama		Novela	Graham Greene1948
+78	6867		La broma infinita		Novela	David Foster Wallace1996
+78	1988		La mujer del teniente frances		Romance	John Fowles1969
+79	3682		Las aventuras de Augie March		Aventura	Saul Bellow1953
+79	1409		Ve y dilo en la montaña		Novela	James Baldwin1953
+79	1017		Snow Crash		Aventura	Neal Stephenson1992
+80	8336		La naranja mecánica		Misterio	Anthony Burgess1962
+80	5977		Are You There God? It's Me		Romance	Margaret Judy Blume1970
+80	1112		El poder y la gloria		Ficcion	Graham Greene1940
+81	5888		Lo que el viento se llevó		Misterio	Margaret Mitchell1936
+81	2345		Adiós a Berlín		Aventura	Christopher Isherwood1939
+81	329		El cinéfilo		Aventura	Walker Percy1961
+81	1490		Retorno a Brideshead		Novela	Evelyn Waugh1945
+82	1285		Expiacion		Misterio	Ian McEwan2001
+83	1984		George Orwell		Aventura	Desconocido1949
+83	8993		Posesión		Misterio	A. S. Byatt1990
+83	1303		Ve y dilo en la montana		Novela	James Baldwin1953
+84	1279		Una danza para la musica del tiempo		Indefinido	Anthony Powell1951
+85	1404		Ragtime		Aventura	E. L. Doctorow1975
+85	1168		Un punado de polvo		Aventura	Evelyn Waugh1934
+86	8480		La muerte llama al arzobispo		Terror	Willa Cather1927
+86	5664		Ancho mar de los Sargazos		Aventura	Jean Rhys1966
+86	1119		El corazon es un cazador solitario		Aventura	Carson McCullers1940
+87	1553		El cuaderno dorado		Aventura	Doris Lessing1962
+88	6942		Sus ojos miraban a Dios		Religion	Zora Neale Hurston1937
+88	1123		Nunca me abandones		Indefinido	Kazuo Ishiguro2005
+89	1531		La mujer del teniente francés		Romance	John Fowles1969
+89	2421		Las correcciones		Aventura	Jonathan Franzen2001
+89	1791		Posesion		Misterio	A. S. Byatt1990
+90	1832		Amor		Romance	Henry Green1945
+91	2066		El corazón es un cazador solitario		Aventura	Carson McCullers1940
+91	3731		Matadero cinco		Misterio	Kurt Vonnegut1969
+91	1210		Una tragedia americana		Novela	Theodore Dreiser1925
+92	1751		Beloved		Aventura	Toni Morrison1987
+93	1342		El guardian entre el centeno		Aventura	J. D. Salinger1951
+94	1512		Fiesta		Aventura	Ernest Hemingway1926
+95	1055		La muerte del corazon		Romance	Elizabeth Bowen1938
+96	6647		Hijo nativo		Novela	Richard Wright1940
+96	1099		Una casa para el señor Biswas		Novela	V. S. Naipaul1961
+97	1730		El cinefilo		Aventura	Walker Percy1961
+98	1731		Matar a un ruisenor		Novela	Harper Lee1960
+99	7530		Trópico de Cáncer		Historico	Henry Miller1934
+99	4726		El hombre invisible		Indefinido	Ralph Ellison1952
+99	4534		El lamento de Portnoy		Novela	Philip Roth1969
+99	1474		El dependiente		Novela	Bernard Malamud1957
+100	1883		Cita en Samarra		Aventura	John O'Hara1934
+100	1483		Dientes blancos		Aventura	Zadie Smith2000
+101	4003		Luz de agosto		Aventura	William Faulkner1932
+101	1426		El anticuario		Drama	Julian Sanchez1993
+103	1616		El ritual		Terror	Adam Nevill2011
+104	2650		El gran Gatsby		Novela	F.Scott Fitzgerald1925
+104	1541		Ulises		Aventura	James Joyce1998
+106	1161		El hombre de hierro		infantil	Ted Hughes1968
+107	1779		Juul		fantasia	Gregie de Maeyer2019
+110	1785		Después de diciembre		Romance	Joana Marcús2019
+112	1005		The Rainbow Serpent		aventura	Robin Ragnak1600
+113	1072		El perfume		misterio	Patrick Suskind1872
+114	1247		The Martian Chronicles		Ciencia ficción y fantasia	Ray Bradbury2000
+115	1871		El hombre sin atributos		Romance	Robert Musli1940
+116	1884		"Antígona"""		Novela	Sófocles441
+117	1523		Huckleberry Finn		Drama	Mark Twain1884
+118	1796		Balzac y la joven costurera china		Drama	Dai Sijie1998
+120	1651		Frankenstein		Novela	de Mary W. Shelley1662
+121	1311		El umbral		Terror	Patrick Senecal1982
+122	8059		Pasaje a la India		Aventura	E. M1924
+123	1491		Arsenio		Ficcion	Maurice Leblanc2004
+124	1973		San Anselmo y el insensato y otros estudios de filosofía		filosofia	Julián Marías1984
+125	1089		El viaje de Andre		Novela	Svend Brinkmann2021
+126	1459		Melmoth el errabundo		Terror 	Charles Robert Maturin1859
+127	1834		Otra vuelta de tuerca		terror 	Henry James1959
+128	1522		Fantasmas		Terror	Joe Hill1984
+129	1214		La insoportable levedad del ser		Novela	Milan Kudera1984
+131	1714		Rompiendo Tus Reglas		drama	Violeta Boyd2019
+132	1566		A lo largo del camino		Drama	Julien Gracq2001
+134	1132		El banquete		filosofia	Platon1385
+135	1828		El retrato de Dorian Gray		Terror	Oscar Wilde2001
+136	1686		Espera a la primavera  Bandini		Novela	John Fante1889
+137	1470		El amigo secreto de Barney		infantil	Clive King1963
+138	1228		Trampa 22		Aventura	Joseph Heller1887
+139	1885		Gravity's Rainbow		Ciencia ficción y fantasia	Thomas Pynchon1985
+140	1254		La metamorfosis segunda parte		Misterio	Franz Kafka1980
+141	1854		El librero		Novela	Regis de Sa Moreira1998
+143	1366		El monje		Terror	Matthew Lewis1957
+144	1144		Tao Te Ching		filosofia	Lao Tse1976
+145	1648		Diario		Historico 	Ana Frank1959
+146	1905		El curioso incidente del perro a media noche		Novela	Mark Haddon2019
+147	1697		El misterio de Salem's Lot		Terror	Stephen King1988
+148	1327		La Iliada		Misterio 	Homero2015
+149	1762		La telarana de Charlotte		Fantasia	E. B. White1985
+151	1979		La catedral del mar		Novela	Ildefonso Falcones1994
+152	1939		El aire que respiras		Novela	Care Santos1995
+153	1480		El arbol de Halloween		Terror	Ray Bradbury1975
+159	1356		El hombre y lo divino		filosofia	María Zambrano1955
+160	1024		Los miserables		Aventura	Victor Hugo1965
+161	1125		Narración de Arthur Gordon Pym		Terror 	Edgar Allan Poe2015
+162	1983		El reflejo de las palabras		Drama	Kader Abdolah1943
+163	1061		American Psycho		misterio	Breat aston Ellis1885
+164	1172		El arbol rojo		misterio	Shaun Tan1872
+165	1165		El hombre lobo en París		Terror	Guy Endore2007
+166	1365		El Curioso Incidente del Perro a Medianoche		Novela	Mark Haddon1987
+167	1990		Cien anios de soledad		Novela	Gabriel Garcia Márquez1998
+168	1994		The senior year		romance	E.M. Molleja2016
+169	1569		Los besos robados de Bridget		Novela	Darlis Stefany2016
+170	1681		Los elixires del diablo		Novela	E.T.A. Hoffman1932
+171	1887		El libro salvaje		Drama	Juan Villoro1837
+172	1860		El horror Dunwich		Terror	H.P. Lovecraft2004
+173	1913		Otra vuelta de tuerca		Terror 	Henry James1988
+174	1102		She is one of the boys		novela	E.M. Molleja2015
+175	1048		La mujer de negro		Terror	Susan Hill1978
+176	1581		Las lagrimas de Naraguya		Novela	Catalina Gonzales2017
+177	1504		La casa de Bernarda Alba		Drama	Federico García Lorca1894
+178	1640		Gastrosofia: Una historia atípica de la Filosofía		drama	Eduardo Infante y Cristina Macía2022
+179	1197		Cuando la lluvia deje de caer		romance	Flor M. Salvador2018
+181	1271		Los filántropos en harapos		Novela	Robert Tressell1914
+182	1288		El caso de Charles Dexter Ward		Terror	H.P. Lovecraft1986
+184	1133		Las horas		Ficcion	Michael Cunningham2004
+185	1880		La biblioteca de los suenos rotos		Novela	Peter Manseau1990
+187	1012		Estas ahi Dios Soy yo Margaret		Juvenil	Judy Blume1995
+188	1458		La casa infernal		Terror	Richard Matheson1966
+189	1438		Condiciones nerviosas		aventura	Tsitsi Dangarembga1988
+191	1747		Bibliotecas llenas de fantasmas		Novela	Jacques Bonnet1990
+192	1726		IT Eso		Terror	Stephen King1995
+194	1131		Y entonces sucedio algo maravilloso		Novela	Sonia Laredo1987
+195	1914		Diez Negritos		Drama	Agatha Christie1939
+196	1063		Harry Potter y el prisionero de Azkaban		Aventura magica	J. K. Rowling1996
+197	1826		Qué es la inteligencia Del CI a las inteligencias multiples		Informativo	Adrian Triglia2017
+198	1302		El genero en disputa		filosofia	de Judith Butler1990
+199	1450		Cumbres borrascosas		Novela	Emily Bronte1887
+200	1155		Los detectives salvajes		Aventura	Roberto Bolano1995
+202	1665		Fábulas de Esopo		fantasia	Esopo620
+203	1199		La guia de supervivencia zombie		Terror	Max Brooks1999
+204	1374		La feria de las tinieblas		Terror	Ray Bradbury1955
+205	1373		Otra vuelta de tuerca		misterio	Henry James1981
+206	1394		Harry Potter y las reliquias de la muerte		Aventura magica	J. K. Rowling2001
+207	1103		Si esto es un hombre		Drama	Primo Levi2004
+208	1278		Una biblioteca de verano		fantasia	Mary Ann Clark Bremer1971
+210	1227		Memorias de una geisha		Romance	Arthur Golden1885
+211	1169		David Copperfield		Novela	Charles Dickens2012
+214	1926		La casa de hojas		Terror	Mark Z. Danielewski1998
+215	1000		El viaje de Baldassare		Drama	Amin Maalouf1982
+216	1395		El Conde de Montecristo		Historico	Alexandre Dumas1845
+217	1284		El Sr. Penumbra y su libreria horas abierta		Aventura	Robin Sloan1923
+218	1476		Todo se desmorona		Thriller 	Chinua Achebe1967
+219	1084		La montana magica		Aventura	Thomas Mann1886
+220	1423		Romance de los Tres Reinos		aventura	Luo Guanzhon1883
+221	1895		Pasaje a la India		Novela	E.M.Forster1988
+222	1752		El cofre de nadie		Novela	Chiki Fabregat2021
+223	1113		La pequeña oruga glotona		infantil	Eric Carle1969
+224	1727		Oliver Twist		Aventura	Charles Dickens1890
+226	1761		Las virgenes suicidas		misterio	Jefrrey Eugenides1932
+228	1653		Cuento de Navidad		Ficcion	Charles Dickens1843
+229	1572		Harry Potter y la Orden del Fenix		Aventura magica	J. K. Rowling1999
+230	1853		Vampiros de la mente		Terror	Dan Simmons2008
+231	1181		Cumbres Borrascosas		fantasia	Emily Brontë1847
+232	1576		Me Before You		Novela	Jojo Moyes2011
+233	1198		El nacimiento de la tragedia		filosofia	Friedrich Nietzsche1872
+234	1101		Relatos de fantasmas		Terror	Edith Wharton2016
+235	1176		El cerebro del adolescente		Libro de autoayuda	David Bueno2022
+237	1555		Don Quijote de la Mancha		Aventura	Miguel de Cervantes1870
+239	1991		Un arbol crece en Brooklyn		Novela	Betty Smith1996
+240	1755		Las Aventuras de Tom Sawyer		aventura	Mark Twain1876
+241	1357		El Rey Lear		Novela	William Shakespeare1608
+242	1242		Rebeldes		Novela 	Susan Hinton1967
+243	1464		Anatomia Una historia de amor		Romance	Dana Schwartz2017
+245	1092		Cuando Norwick Hill vistió de rojo		romance	Violeta Boyd2018
+246	1152		Eleanor y Park		Novela	Rainbow Rowell2012
+247	1997		Harry Potter y la piedra filosofal		Aventura Magica	J. K. Rowling1985
+248	1706		El pais de octubre		Terror	Ray Bradbury1988
+249	1561		Goodnight Mister Tom		infantil	de Michelle Magorian1981
+250	1799		Orgullo y prejuicio		Romance	Jane Austen1880
+252	1031		El muneco		Terror	Daphne du Maurier1959
+253	1330		La biblioteca de los libros vacios		Aventura	Jordi Sierra i Fabra1889
+254	1260		John Silence  investigador de lo oculto		Terror	Algernon Blackwood1863
+257	1716		Canciones para Paula		Novela	Blue Jeans2009
+258	1163		Robinson Crusoe		aventura	Daniel Defoe1719
+259	1857		Tocar los libros		Drama	Jesus Marchamalo2011
+260	1178		Por quien doblan las campanas		Novela	Hernest Hemingway1862
+263	1170		La arana y otros cuentos macabros y siniestros		Terror	Hanns Heinz Ewers1997
+264	1511		Conquistando a Jeremy		Novela	Darlis Stefany2018
+265	1769		El conde de Montecristo		Novela	Alejandro Dumas1752
+266	1644		Miedo líquido: La sociedad contemporánea y sus temores		drama	Zygmunt Bauman2010
+267	1166		La evolución de Calpurnia Tate		Novela	Jacqueline Kelly1967
+268	1481		El juego del angel		Ficcion	Carlos Ruiz Zafon1983
+270	1963		El arte de amar		Novela	Erich Fromm1956
+271	1955		El nombre de la rosa		Novela	Umberto Eco1982
+272	1246		El librero Vollard		Drama	Pierre Péju1965
+273	1964		Asi hablo Zaratustra		filosofia	Frederick Nietzsche1883
+274	1691		El palacio de la luna		Novela	Paul Auster1954
+275	1019		La espada en la piedra		Fantasia	T. H. White1987
+276	1294		La cancion del verdugo		fantasia	Norman Mailer1892
+277	1255		El lobo estepario		Ficcion	Hermann Hesse1927
+278	1249		Ubik		Novela	Philip k. Dick1887
+279	1588		Un mundo feliz		misterio	Aldous Huxley1902
+280	1999		El corazón de las tinieblas		Novela	oseph Conrad1966
+282	1790		1984		Aventura	George Orwell1890
+283	1380		El terror		Terror	Arthur Machen1988
+284	1137		La canción de Lawino		Ficcion	Okot p'Bitek1966
+285	1689		El inventor de palabras		Aventura	Gerad Donovan1976
+286	1467		Nociones de Filosofía por Carlos Jourdain		filosofia	Charles Jourdain & Ramón Briseño2001
+287	1086		Charlie y la fábrica de chocolate		infantil	de Roald Dahl1964
+290	1245		Harry Potter y la cámara secreta		Fantasia 	J. K. Rowling1998
+292	1094		El olvido mas dulce		Romance	Danielle Lori2016
+293	1091		Cautivando a Ashton		Novela	Darlis Stefany2017
+294	1765		La bibliotecaria de Basora		Drama	Jeanette Winter1892
+295	1058		Los libros condenados		Ficcion	Jacques Bergier1967
+296	1412		Todo se desmorona		religioso	Chinua Achebe1958
+297	1550		Todos sobre Zanzibar		Novela	John Brunner1976
+298	1694		Pulp		Aventura	Charles Bukowski1653
+299	1251		La Orestíada		Novela	Esquilo15
+300	1220		Las aventuras de Huckleberry Finn		fantasia	Mark Twain1884
+302	1482		Justine o los infortunios de la virtud		fantasia	Marques de Sade1929
+304	1908		La cabina magica		Ciencia ficcion y fantasia 	Norton Juster1969
+306	1809		Sus ojos miraban a Dios		fantasia	Zora Neale Hurst1937
+307	1386		Para leer al anochecer		Terror	Charles Dicken2017
+308	1180		Omeros		aventura	Derek Walcott1990
+309	1038		El castillo de Otranto		Terror	Horace Walpole1975
+310	1289		El incendio de Alejandria		Novela	Jean Pierre Luminet1962
+313	1160		The toad trip		drama	E.M. Molleja2017
+314	1748		Elementos de la filosofía del espirita humano		filosofia	Ventura Marín1987
+315	1867		Bajo la misma estrella		Novela	Jhon Green2012
+316	1950		Neuromancer		Ciencia ficción y fantasia	William Gibson1989
+317	1408		La casa de los espiritus		Terror	Isabel Allende1995
+318	1487		Pedro Páramo		aventura	Juan Rulfo1955
+319	1861		El príncipe Caspian		Fantasia	C. S. Lewis1951
+320	1575		Los juegos del hambre		Aventura	Suzanne Collins2002
+321	1580		El Hobbit		Fantasia	J.R. Tolkien1998
+322	1921		La marcha Radetzky		aventura	Joseph Roth1932
+324	1066		Réquiem por un sueño		terror	Hubert Selby1972
+325	1891		Silence		Novela	Flor M. Salvador2016
+326	1877		La conciencia del dolor y de la belleza		drama	Simone Weil2010
+327	1517		En las montañas de la locura		Terror	H.P. Lovecraft1966
+328	1923		Faranheit		Novela	Ray Bradbury2001
+329	1746		Introducción a la Filosofía		filosofia	Julián Marías1986
+330	1772		La mano izquierda de la oscuridad		Ficcion	Ursula K.Le Guin1969
+331	1743		Las chicas		Drama	Emma Cline1932
+332	1253		La Casa de la Pradera		Fantasia	Laura Ingalls Wilder1983
+333	1858		El club de lectura del final de tu vida		Drama	Will Schwalbe1965
+336	1962		Las uvas de la ira		Novela	John Steinbeck1896
+337	1082		Cándido		Novela	Voltaire1759
+338	1130		Narración de Arthur Gordon Pym		Terror 	Edgar Allan Poe2010
+339	1898		Childhood’s End		Ciencia ficción y fantasia	Arthur C. Clarke1998
+340	1433		El nombre de la rosa		Novela	Umberto Eco1980
+341	1300		Asesinato en la Biblioteca Nacional		Ficcion	Luisa Villar Liébana2015
+342	1573		Los hombres que susurran a las máquinas		Drama	Antonio Sala1972
+343	1329		Invisible		Novela Conmovedora y emotiva	Eloy Moreno2018
+344	1252		El brillo de las luciérnagas		terror	Paul Pen1989
+345	1631		A mi tambien		Libro de autoayuda	Karina M.Soto2017
+346	1488		El arte de rechazar una novela		Novela	Camilien Roy1996
+347	1519		El espiritu de las leyes		filosofia	Montesquieu1784
+349	1494		La consolación de la filosofía		filosofia	Anicio Boecio1983
+351	1840		H de Harry		Novela	Darlis Stefany2014
+353	1371		La corrosion del caracter		Ficcion	Richard Sennett2006
+355	1341		Entrevista con el vampiro		Terror	Anne Rice1998
+356	1638		Los hermanos Karamazov		Misterio	Fiodor Dostoyevski1875
+358	1402		La casa de los siete tejados		Terror	Nathaniel Hawthorne1966
+360	1292		The Maze Runner		Ficcion	James Dasher2009
+361	1838		Corazon en fuera de juego		Romance 	Nira Strauss2022
+362	1240		El amor en los tiempos del colera		Novela	Gabriel Garcia Marquez1997
+363	1347		The Great Gatsby		romance	F. Scott Fitzgerald2015
+364	1230		Historia de dos ciudades		Reflexivo  	Charles Dickens1858
+366	1547		El evangelio del mal		fantasia	Patrick Graham1996
+367	1109		El Grúfalo		infantil	de Julia Donaldson1999
+368	1322		El taller de los libros prohibidos		Novela	Eduardo Roca1982
+370	1317		Obras completas		filosofia	Don Andrés Bello1982
+371	1023		Como Repensar la Psicologia		Psicologico	Bernard Guerin2021
+372	1138		La condesa sangrienta		Terror	Valentine Penrose1867
+373	1564		Lolita		Novela	Vladimir Nabokov1877
+374	1984		Pragmática del lenguaje y filosofía analítica		filosofia	Victoria Camps2013
+375	1525		Robinson Crusoe		Novela 	Daniel Defoe1988
+376	1009		Poema de Gilgamesh		Novela	autor desconocido17
+377	1593		La casa en el confin de la tierra		Terror	William Hope Hodgson2000
+378	1986		Cambiando Tus Reglas		novela	Violeta Boyd2015
+379	1070		Eterno		novela	Flor M. Salvador2014
+380	1776		The Sandman		Fantasia	Neil Gaiman2003
+381	1851		Antes de ella		romance	Flor M. Salvador2015
+382	1882		La novela de Genji		Novela	Genji Monogatari1921
+383	1107		La fiesta del chivo		Novela	Mario Vargas Llosa2000
+384	1618		Madame Bovary		Romance	Gustave Flaubert1895
+385	1041		El terror		Terror	Dan Simmons1969
+388	1503		El devorador de libros		Ficcion	Rebecca Makkai2003
+389	1565		No mires ahora		misterio	Daphne du Maurier1856
+391	1389		Middlemarch		romance	George Eliot1871
+392	1624		La leccion de August		Psicologico	Raquel Palacio2014
+393	1257		El amante de las librerias		Drama	Claude Roy1990
+395	1406		La senora Dalloway		Romance	Virginia Woolf1998
+396	1818		Belleza negra: azabache		infantil	Anna Sewell1877
+397	1787		Dejame entrar		Terror	John Ajvide Lindqvist1952
+399	1802		Orlando		Novela	Virginia Woolf1928
+400	1267		Las visitas		fantasia	Silvia Schujer1892
+401	1798		Pensar Rapido  Pensar Despacio		Reflexivo	Daniel Kahneman2010
+402	1780		habitos de la gente altamente efectiva		Psicologico	Stephen R. Covey1989
+404	1367		La guia de supervivencia zombie		Terror	Max Brooks1959
+405	1508		Chicos de Gebelawi		fantasia	Naguib Mahfuz1959
+406	1312		Kebra Nagast		aventura	Eborn Swetch1602
+407	1940		Viaje al OesteWu Chengen		novela	Wu Chengen1592
+408	1451		El club Dumas		Novela	Arturo Perez Reverte1897
+410	1833		En Busca del Tiempo Perdido		Drama	Marcel Proust1927
+411	1604		Anna Karenina		aventura	León Tolstói1873
+412	1407		Muerte entre lineas		fantasia	Donna Leon2001
+413	1829		Viaje al centro de la Tierra		Aventura	Julio Verne1864
+414	1723		Jurassic Park		Aventura	Michael Crichton2005
+415	1206		The Hobbit		Aventura	J. R. R. Tolkien1937
+416	1628		Carnacki el cazador de fantasmas		Terror	William Hope Hodgson1945
+417	1535		Piso para dos		romance	Beth O'Leary2017
+418	1509		La sombra del viento		Ficcion	Carlos Ruiz Zafon2013
+419	1050		La revelación		drama	Ariana Godoy2016
+420	1164		Soy un gato		Aventura	Natsume Soseki2012
+421	1216		Black & Blue		romance	Ariana Godoy2016
+422	1377		Los novios de Micah Summers		Romance	Adam Sass2021
+424	1027		Las ventajas de ser invisible		Drama juvenil 	Stephen Chbosky1999
+426	1429		América		aventura	Raúl Otero Reiche1980
+427	1270		Sueno en el Pabellon Rojo		Novela	Cao Xueqin1791
+428	1735		La libreria ambulante		Aventura	Christopher Morley1790
+429	1238		El gran Gatsby		Novela	F. Scott Fitzgerald1990
+430	1852		Filosofía felina: Los gatos y el sentido de la vida		drama	John Gray2021
+431	1673		Shakespeare Company		Drama	Sylvia Beach2003
+433	1717		Vampiros de la mente		Terror	Dan Simmons2001
+434	1100		Pasion de papel		fantasia	Jennifer Smith1998
+435	1025		El librero de la Atlantida		Aventura	Manuel Pimentel1886
+437	1786		Un día en la vida de Iván Denísovich		aventura	Aleksandr Solzhenitsyn1962
+438	1500		Soy leyenda		Terror	Richard Matheson2014
+440	1707		Charing Cross Road		Aventura	Helen Hanff1888
+441	1904		El color que cayo del espacio		Terror	H.P. Lovecraft1988
+442	1831		La ladrona de libros		Ciencia ficcion y fantasia 	Markus Zusak1978
+443	1816		Los Miserables		Drama	Víctor Hugo1862
+444	1795		Saga de Njal		religioso	Anonimo18
+445	1073		Sin plazo		novela	Alex Divaro2017
+446	1345		Inteligencia Emocional		Reflexivo	Daniel Goleman1996
+447	1738		El almuerzo desnudo		misterio	Williams Burroughs1896
+448	1420		Nada		misterio	Janne Teller1902
+449	1863		Vamos a cazar un oso		infantil	Michael Rosen1989
+450	1513		Cabal		Terror	Clive Barker2007
+452	1875		Principios de filosofía positiva		filosofia	Augusto Comte1983
+453	1263		Fantasmas		Terror	Peter Straub1997
+454	1690		Tormenta de espadas		Fantasía 	George R.R. Martin1995
+455	1382		Los cantos de Maldoror		terror	Isidore de Lautreámont1973
+456	1870		Jane Eyre		Thriller 	Charlotte Bronte1955
+458	1599		El secreto		aventura	Donna Tartt1992
+459	1610		El corazon de las tinieblas		Novela	oseph Conrad1966
+460	1662		Carmilla		Terror	Joseph Sheridan Le Faun2000
+461	1909		Los viajes de Gulliver		Aventura	Jonathan Swift1779
+462	1635		Los libros arden mal		Drama	Manuel Rivas1987
+463	1314		El bastardo recalcitrante		Humor	Tom Sharpe1889
+466	1912		Ventajas de viajar en tren		fantasia	Antonio Orejudo1994
+467	1881		El Golem		Terror	Gustav Meyrink1987
+468	1428		A sangre fria		terror	Truman Capote1967
+469	1372		Las aventuras de Huckleberry Finn		Novela	Mark Twain1997
+470	1475		Walden Dos		Novela	B. F. Skinner1993
+471	1136		Si lo amas educalo		Libro de autoayuda	Rosario Busquets2017
+472	1688		El ruido y la furia		Misterio	William Faulkner1987
+473	1290		El Deseo Prohibido de Doug		Novela	Darlis Stefany2014
+474	1325		El mago de Oz		Fantasia	Lyman Frank Baum1995
+475	1354		Un beso bajo la lluvia		Romance	Violeta Boy2018
+476	1700		La libreria de las nuevas oportunidades		Ficcion	Anjali Banerjee1890
+477	1530		El retorno del Rey		Thriller 	J.R.R. Tolkien2017
+478	1396		El silencio de los corderos		Terror	Thomas Harris2003
+479	1925		El extraño caso del Dr. Jekyll y Mr. Hyde		Terror 	R.L. Stevenson1969
+480	1506		Hasta que dejemos de ser idiotas		Romance	Ona Spell2022
+481	1605		El librero de Paris y la princesa rusa		Drama	Mary Ann Clark Bremer2001
+482	1590		Pedro Melenas		misterio	Heinrich Hoffmann1973
+483	1448		Hotel Transylvania		Terror	Chelsea Quinn Yarbro2010
+484	1745		Ensayo sobre la ceguera		Novela	jose Saramago1954
+485	1040		El librero de Kabul		Novela	Asne Seierstad1990
+487	1430		Psicológicamente hablando Un recorrido por las maravillas de la mente		Psicologico	Adrián Triglia2016
+489	1093		Origen de las especies		Informatico	Charles Darwin1859
+490	1417		El Hombre Invisible		aventura	Ralph Ellison1952
+491	1728		Beloved		Novela	Toni Morrison1987
+492	1111		Lo que el viento se llevo		Misterio	Margaret Mitchell1990
+493	1827		Los cuentos de Canterbury		Drama	Geoffrey Chaucer1387
+494	1486		Ring		Terror	Koji Suzuki2002
+495	1879		Después de el		romance	Flor M. Salvador2012
+496	1578		Crítica de la razon pura		filosofia	Immanuel Kant1965
+497	1643		La Verdadera Historia de Ah Q		Novela	Lu Xun1922
+498	1767		El codigo Da Vinci		Misterio	Dan Brown1884
+499	1577		Matilda		infantil	de Roald Dahl1988
+500	1397		Zothique		Terror	Clark Ashton Smith2011
+501	1157		Sigue Mi voz		novela	Ariana Godoy2017
+502	1363		El Aleph		fantasia	Jorge Luis Borges1945
+503	1343		Fahrenheit		Misterio	Ray Bradbury1966
+504	1465		La telarana de Carlota		Novela	E.B. White1993
+505	1274		Rebeldes		Juvenil	S.E. Hinton2000
+506	1062		Las aventuras de un libro vagabundo		Novela	Paul Desalmand2018
+508	1927		La guerra de los mundos		Terror	H. G. Wells1969
+509	1081		La madre		Drama	Maksim Gorki1998
+510	1552		La conexion Alejandria		Novela	Steve Berry1876
+511	1567		A la orilla del agua		aventura	atribuida a Nai'an1589
+512	1718		La metamorfosis		Novela	Franz Kafka1915
+513	1187		El circulo de los escritores asesinos		Novela	Diego Trellez Paz1889
+514	1355		Ante la Ley		Novela	Franz Kafka1915
+515	1961		El tapiz del vampiro		Terror	Suzy McKee Charnas1995
+516	1234		La silla de plata		Fantasia	C. S. Lewis1953
+517	1949		El segundo sexo		filosofia	Simone de Beauvoir1975
+518	1088		Mujercitas		Novela 	Louisa May Alcott1868
+519	1337		Nadie nos oye		Libro de autoayuda	Nando Lopez2018
+522	1497		Los libros son timidos		Aventura	Giulia Alberico1978
+523	1425		A través de mi ventana		Romance	Ariana Godoy2014
+524	1907		Sobre la felicidad Sobre la brevedad de la vida		filosofia	Séneca1958
+525	1140		El arte de leer		Novela	W. H. Auden1962
+526	1570		Lujuria		drama	Eva Muñoz2018
+527	1737		Un día de nieve		Drama	Ezra Jack Keats1962
+528	1075		Aullido		Novela	Allen Ginsberg1956
+529	1922		El traje del muerto		Terror	Joe Hill1968
+530	1479		El juego de Ender		Misterio	Orson Scott Card1999
+531	1013		Don Juan Tenorio		Aventura	Jose Zorrilla1954
+532	1768		Infinite Jest		Ciencia ficción y fantasia	David Foster Wallace2003
+533	1536		El dador		Ciencia ficcion y fantasia 	Lois Lowry1986
+534	1379		El maestro y Margarita		fantasia	Mikhail Bulgakov1967
+535	1353		La guardia de Jonas		Terror	Jack Cady1955
+537	1800		Vía revolucionaria		fantasia	Richard Yates1961
+538	1149		El reino de los zombis		Terror	Len Barnhart1999
+539	1269		El cuaderno dorado		aventura	Doris Lessing1962
+541	1212		La mujer de papel		Aventura	Rabih Alameddine1968
+542	1596		Las Metamorfosis		Novela	Ovidio8
+544	1287		Huckleberry Finn		Novela	Mark Twain1996
+546	1669		Moby Dick		Aventura	Herman Melville1876
+547	1179		La leyenda de Sleepy Hollow		Terror	Irvin Washington1984
+548	1336		El cerdo que quería ser jamón		drama	Julian Baggin2022
+549	1440		Díselo a la Luna		Romance	Violeta Boyd2017
+550	1958		Dhalgren		Novela	Samuel R. Delany1989
+551	1502		La libreria encantada		Aventura	Christopher Morley1976
+552	1121		Khamriyyat		Novela	Abu Nuwas9
+553	1824		Ana Karenina		Novela	Leon Tolstoi2012
+554	1056		Tristam Shandy		Aventura	Laurence Sterne1667
+555	1193		La hija del Rey Pirata		Romance	Tricia Levenseller2012
+557	1432		El corazón de las tinieblas		Drama	Joseph Conrad1899
+559	1414		La señora Dalloway		Novela	Virginia Woolf1925
+560	1756		Fantasmas		Terror	Dean Koontz1990
+561	1207		Johnny cogió su fusil		Novela	Dalton Tumbo1992
+562	1471		Matilda		Ciencia ficcion y fantasia 	Roald Dahl1985
+564	1213		Trilogia de Tora		Drama	Herbjorg Wassmo1900
+565	1452		La divina comedia		Novela	Dante Alighieri1578
+566	1361		Kate & Ethan		Romance	Ines Garber1987
+568	1993		Caperucita en Manhattan		Ficcion	Carmen Martin Gaite1990
+569	1156		Mujercitas		Novela	Louise May Alcott1990
+571	1114		La historia interminable		Novela	Michael Ende1979
+572	1110		Juego de los ninos		Terror	Juan José Plans2000
+573	1758		La historia interminable		Aventura	Michael Ende1956
+574	1657		La Biblia		Religion	El vaticano1500
+576	1841		Leer Lolita en Teheran		Novela	Azar Nafisi2005
+577	1159		Matar a un ruisenor		Romance	Harper Lee1996
+578	1764		El señor de los anillos		Trilogía	J.R.R.Tolkien1991
+579	1670		Disciplina con amor para adolescentes		Emotivo 	Rosa Barocio2009
+580	1010		Las diabólicas		Novela	Jules Barbey d’Aurevilly1978
+581	1848		La casa y el cerebro		Terror	Edward Bulwer1977
+582	1185		Anatomia del amor		Novela	Helen Fisher2004
+583	1946		The Hating Game		romance	Sally Thorne2017
+584	1894		Solo para chicas		Libro de autoayuda	Sarah2008
+585	1378		Sopa de Miso		Drama	Ryü Murakami2012
+586	1584		El espia que surgio del frio		misterio	John le Carre1997
+587	1928		Mi Desesperada Decisión		Romance	Ariana Godoy2019
+588	1866		Progreso del peregrino		Novela	John Bunyan1998
+589	1449		El senor de las moscas		Fantasia	William Golding1896
+590	1472		El senor de las moscas		Misterio	William Golding1778
+591	1642		Las cronicas de Narnia		Ciencia ficcion y fantasia 	C. S. Lewis1985
+592	1447		American Psycho		Terror	Bret Easton Ellis1992
+593	1276		Malditas mariposas		Romance	Loles Lopez2017
+594	1022		Mi vida mal dibujada		Drama	Gipi1993
+596	1143		La travesía del Viajero del Alba		Fantasia 	C. S. Lewis1952
+597	1001		El perfume		Novela de horror	Patrick Suskind2002
+598	1039		Cartas		novela	Epicuro1500
+599	1006		El asesino de alfas		Novela	Patricia Garcia2021
+600	1995		Cuentos completos de terror		Terror	Guy de Maupassant1999
+601	1085		La isla del tesoro		Aventura	Robert Louis Stevenson1989
+602	1346		La plenitud de la señorita Brodie		Ficcion	Muriel Spark1961
+604	1810		Corazones perdidos		Terror	Montague Rhodes James1969
+606	1298		El odio que das		Novela	Angie Thomas2017
+607	1890		Cancionero		Ficcion	Petrarca1874
+609	1167		coward		religioso	min monji1800
+610	1334		Los amantes mariposa		Drama	Jessica Park1884
+611	1678		La sombra del cipres es alargada		Misterio	Miguel Delibes2002
+612	1518		Un verano tenebroso		Terror	Dan Simmon2005
+613	1096		El prodigioso viaje de Edward Tulane		Fantasia	Kate DiCamillo1979
+614	1498		El discurso del metodo		filosofia	Descartes1637
+615	1938		La casa de hojas		Terror	Mark Z. Danielewski2004
+616	1344		Crimen y castigo		Ficcion	Fiodor Dostoyevski1881
+617	1915		La Jungla		Novela	Upton Sinclair1906
+618	1404		La sonrisa etrusca		Aventura	Jose Luis Sampedro1987
+620	1969		VALIS		Ciencia ficcion y fantasia	Phillip K. Dick1978
+622	1859		Fenomenologia del espiritu		drama	G. W. F. Hegel1807
+623	1820		Rimas y leyendas		Terror	Gustavo Adolfo Bécquer2000
+624	1183		La hija del tiempo		misterio	Josephine Tey1897
+626	1836		El Cuervo		Novela	Edgar Allan Poe1845
+627	1030		El increible nino comelibros		Novela	Oliver Jeffers1982
+628	1350		Ana de las tejas verdes		Novela	L.M. Montgomery1988
+629	1098		Mil soles esplendidos		Aventura	Khaled Hosseini1886
+630	1273		La biblia de barro		Novela	Julia Navarro2015
+631	1639		Espíritu festivo fantasmas		Terror	Davis Robertson1980
+632	1677		Ultratumba		Terror	Ramsey Campbell1967
+633	1864		Papel mojado		Novela	Juan Jose Millas1987
+634	1319		Ven te quiero		Romance	Morgane Moncomble2022
+635	1846		La libreria		Ficcion	Penelope Fitzgerald1967
+638	1733		Juego de los ninos		Terror	Juan Jose Plans1976
+639	1868		Nadie acabara con los libros		Drama	Umberto Eco2009
+640	1473		El mundo de Sofia		filosofia	Jostein Gaarder1991
+641	1457		El extranjero		Aventura	Albert Camus1997
+642	1933		Niebla		Misterio	Miguel de Unamuno2000
+643	1037		Quiubule		Libro de autoayuda	Gaby Vargas2015
+644	1585		Terror Zothique		Terror	Clark Ashton Smith2000
+645	1801		El nuevo mundo		drama	Ariana Godoy2016
+646	1533		El buscador de finales		Drama	Pablo de Santis1982
+649	1434		El corazon es un cazador solitario		Novela	Carson Mccullers1886
+650	1400		Kimi nayo suki		romance	nano kim1997
+651	1078		Libro de Job de la Biblia		religioso	Moises17
+652	1931		Watchmen		Ciencia ficción y fantasia	Alan Moore1967
+654	1236		En defensa de la intolerancia		filosofia	Slavoj Zizek1983
+655	1436		Al salir del infierno		Terror	John Franklin Bardin2002
+657	1244		Cuentos		Terror	Edgar Allan Poe1988
+658	1108		Guerra Mundial Z		Terror	Max Brooks2008
+659	1203		La buena novela		Aventura	Laurence Cosse1997
+662	1774		El resplandor		Terror	Stephen King1966
+663	1692		Novela de ajedrez		Novela	Stefan Zweig2016
+664	1117		Lords of the Light		Ciencia ficción y fantasia	Roger Zelazny2007
+665	1268		La feria de las tinieblas		Terror	Ray Bradbury1969
+666	1789		Calla candida calla		Novela	Maite Carranza2016
+667	1775		Mahabharata		Novela	Vyasa18
+668	1034		Intenciones Ocultas		Drama	Violeta Boyd2018
+669	1982		La carretera		misterio	Cormac Mccarthy1884
+670	1105		La guerra de los mundos		Terror	H. G. Wells1969
+671	1076		Lloro por la Tierra		Fantasia	Mildred D. Taylor1999
+672	1620		El Aleph		Historico	Jorge Luis Borges1885
+673	1150		2666		Drama	Roberto Bolano1967
+674	1742		Llámalo sueño		Drama	Henry Roth1931
+675	1671		El desayuno de los campeones		Ficcion	Kurt Vonnegut2003
+676	1539		Obedeciendo Tus Reglas		romance	Violeta Boyd2016
+677	1174		Mientras agonizo		Novela	William Faulkner2004
+679	1650		Libros de Luca		Aventura	Mikkel Birkegaard1968
+680	1784		La República		filosofia	de Platón1380
+681	1849		Un mundo feliz		Novela	Aldous Huxley1932
+684	1899		Solaris		Drama	Stanislaw Lem1998
+685	1528		El lector		Aventura	Bernard Schlink1991
+686	1388		¿Qué es filosofía?		filosofia	José Ortega y Gasset1929
+687	1399		Todo Se Derrumba		misterio	Chinua Achebe1958
+688	1589		Suma teologica		filosofia	de Tomas de Aquino1267
+689	1862		Ser y tiempo		filosofia	Martin Heidegger1927
+690	1398		Corazon de tinta		Drama	Cornelia Funke1881
+691	1615		La isla de los amores infinitos		Romance 	Daína Chaviano1992
+692	1839		Solitario		Romance	Alice Oseman2018
+694	1865		Dignos de ser humanos		drama	Rutger BregmanTrad2021
+695	1444		Lo que el cerebro nos dice Los misterios de la mente humana al descubierto		Psicologico	V.S. Ramachandran2012
+696	1021		El baron Bagge		Terror	Alexander Lernet-Holenia1992
+697	1364		Las Penas del Joven Werther		fantasia	Johann Wolfgang von Goethe1774
+698	1876		Antes de diciembre		Romance	Joana Marcús2019
+699	1794		Cuentos infantiles		religioso	Hans Christian Andersen1835
+700	1514		Memorias póstumas de Blas Cubas		Drama	Joaquim Machado de Assis1881
+701	1557		El Rey Lear		Novela	William Shakespeare1899
+702	1919		A Scanner Darkly		Ciencia ficción y fantasia	Phillip K. Dick2021
+705	1685		El guardian entre el centeno		Fantasia	J. D. Salinger2000
+706	1065		Mi Plan D		Drama	Andrea Smith2017
+707	1544		Hijos de la Medianoche		fantasia	Salman Rushdie1981
+708	1248		Lord of the Rings		Ciencia ficción y fantasia	J.R. R. Tolkien1954
+709	1015		El nombre de la rosa		Novela	Umberto Eco1885
+710	1192		Influencia: la psicología de la persuasión		Psicologico	Robert Cialdini2014
+711	1265		Lascivia		novela	Eva Muñoz2019
+713	1563		Censurado		Drama	Darlis Stefany2018
+714	1033		La isla de los amores infinitos		Romance	Daína Chaviano1992
+715	1411		La casa de hojas		Drama	Mark Z. Danielewski1978
+717	1614		Imprenta Babel		Drama	Andreu Carranza1994
+718	1612		Es un libro		Drama	Lane Smith1994
+720	1069		Como abrazar a un erizo		Psicologico	Bradley Wilcox2016
+721	1634		El corazon es un cazador solitario		Novela	Carson Mccullers1886
+723	1911		La Cabaña del Tío Tom		Novela	Harriet Beecher Stowe1852
+725	1189		Los amores de un bibliomano		Aventura	Eugene Field1978
+727	1154		El exorcista		Terror	William Peter Blatty1985
+729	1127		La historiadora		Drama	Elizabeth Kostova1876
+730	1901		Monkey Grip		Drama	Helen Garner1977
+731	1856		Inferno		terror	Dan Brown1973
+733	1222		From the Mixed Up Files of Mrs. Basil E. Frankweiler		Fantasia	E. L. Konigsburg1973
+734	1822		Las flores del mal		Drama	Charles Baudelaire1802
+735	1196		Progreso del peregrino		Novela	John Bunyan1998
+736	1262		Edipo Rey		fantasia	Sófocles429
+737	1559		Asterios Polyp		Ficcion	David Mazzucchelli1889
+739	1200		Coraline		Terror	Neil Gaiman2001
+740	1331		El viejo y el mar		aventura	Ernest Hemingway1952
+741	1792		Porque ser estrellas		drama	Flor M. Salvador2017
+743	1147		El rito		Terror	Laird Barron2015
+744	1630		La cripta de los libros		Drama	Peter Besas1998
+745	1699		Las moradas		filosofia	Santa Teresa de Jesús1577
+746	1965		Metafisica		filosofia	de Aristoteles1368
+747	1819		Jane Eyre		Novela	Charlotte Bronte1965
+750	1348		Flores en el atico		Novela	V. C. Andrews1963
+751	1004		Monster		Ciencia ficcion y fantasia	Walter Dean Myers2000
+753	1116		La conjura de los necios		Novela	John Kennedy Toole1887
+754	1679		Filosofía racional  natural  metafísica y moral		filosofia	Juan Bautista Berni y Catalá1981
+756	1936		Matar a un ruisenor		Juvenil	Harper Lee1996
+757	1145		Alicia en el pais de las maravillas		Aventura	Lewis Carroll1678
+758	1259		Critica de la razon pura		filosofia	de Emmanuel Kant1781
+759	1501		El Rey Lear		Novela	William Shakespeare1899
+760	1597		Tormenta de espadas		Fantasía 	George R.R. Martin1995
+761	1258		Crónica de una muerte anunciada		Novela 	Gabriel Garcia Marquez1984
+762	1272		Harry Potter		Ciencia ficcion y fantasia 	J. K. Rowling1969
+763	1719		El tunel		Terror	Ernesto Sabato2000
+764	1520		Hamlet		Tragedia	William Shakespeare1796
+765	1466		El error de Descartes		Reflexivo	Antonio Damasio1994
+766	1773		El traje nuevo del emperador		Novela	Hans Christian Andersen1837
+767	1948		True Colors		Romance	Ximena Renzo2012
+768	1281		La filosofía moral declarada y propuesta a la juventud		filosofia	Ludovico Antonio Muratori2003
+769	1609		Guerra y paz		Aventura	Leon Tolstoi1991
+770	1942		La leyenda de Sleepy Hollow		Terror	Irvin Washington1988
+771	1633		La arana y otros cuentos macabros y siniestros		Terror	Hanns Heinz Ewers1997
+772	1626		Dr. Jekyll y Mr. Hyde		Misterio	Robert Louis Stevenson1863
+775	1301		El pentateuco de Isaac		Drama	Angel Wagenstein1983
+776	1676		La noche en que Frankenstein leyo el Quijote		Drama	Santiago Posteguillo1998
+777	1892		El Senor de las Moscas		Terror	William Golding2000
+779	1182		Las lechucitas		infantil	Martin Waddell1992
+780	1051		Buscando a Alaska		Fantasia	John Green1979
+781	1315		El hombre que confundio a su mujer con un sombrero		Humor	Oliver Sacks2006
+782	1621		Ultratumba		Terror 	Ramsey Campbell2003
+783	1237		Lo que el viento se llevo		Drama	Margaret Mitchell1936
+784	1153		En busca del tiempo perdido		Aventura	Marcel Proust2001
+785	1554		El proceso		Ficcion	Franz Kafka1896
+786	1917		Bajo el volcan		Drama	Malcon Lowry1982
+787	1532		El libro de las ilusiones		Aventura	Paul Auster1863
+788	1617		Los juegos del hambre		Novela	Suzanne Collins2008
+789	1340		Nunca me abandones		Novela	Kazuo Ishiguro1892
+790	1619		El diario completamente veridico de un indio a tiempo parcial		Ficcion	Sherman Alexie1967
+792	1306		Camino de Los angeles		Aventura	John Fante1887
+795	1097		La biblioteca de los libros perdidos		Drama	Stuart Kelly1982
+796	1934		Una vida entre libros		fantasia	Lewis Buzbee1967
+797	1945		Lonely Heart. Escucha a tu corazon		Romance	Mona Kasten2022
+798	1321		La Genealogia de la Moral		filosofia	Friedrich Nietzsche1998
+799	1893		La condesa sangrienta		Terror	Valentine Penrose1895
+800	1492		Más locos que enamorados		Novela	Violeta Boyd2018
+801	1527		Anhelo		Misterio	Tracy Wolff2019
+802	1741		Una arruga en el tiempo		Ciencia ficcion y fantasia 	Madeleine L’Engle1966
+803	1229		Canto a mí mismo		fantasia	Walt Whitman1855
+804	1297		El traje del muerto		terror	Joe Hill1967
+805	1721		A sangre fria		Misterio 	Truman Capote1958
+806	1310		Un mundo feliz		Novela	Aldous Huxley2019
+808	1090		Los libros errantes		Ficcion	Felipe Benitez Reyes1962
+809	1134		El niño de los coroneles		misterio	Fernando Marías1932
+810	1516		Una lectora nada comun		Drama	Alan Bennet1987
+811	1118		Lecturas compulsivas		Novela	Felix Azua2007
+812	1916		The Hitchhiker's Guide to the Galaxy		Ciencia ficción y fantasia	Douglas Adams1957
+814	1052		+18		Novela	Darlis Stefany2015
+815	1613		Las mil y una noches		Novela	Jorge Luis Borges1994
+816	1675		Perfectos mentirosos		Romance	Alex Mírez2015
+818	1687		El sublime objeto de la ideología		filosofia	Slavoj Zizek1837
+819	1295		Cronicas Marcianas		Ficcion	Ray Bradbury2001
+820	1725		Heartstopper		Romance 	Alice Oseman2022
+821	1724		The Unlimited Dream Company		Ciencia ficción y fantasia	J.G Ballard2009
+824	1967		La casa de papel		Novela	Carlos M. Dominguez1890
+825	1391		Mentira		Ficcion	Care Santos2015
+827	1124		Zara y el librero de Bagdad		Novela	Fernando Marías1967
+828	1454		Dune		Ciencia ficción y fantasia	Frank Herbert2009
+829	1814		Illuminatus Trilogy		Ciencia ficción y fantasia	Robert Anton Wilson y Robert Shea1999
+830	1546		Solo juntos		Romance	Victoria Vílchez2014
+831	1811		La sociedad literaria y el pastel de piel de patata		Drama	M. Shaffer y A. Barrows2002
+832	1338		Winnie the Pooh		infantil	A. A. Milne1926
+834	1606		Los orígenes del totalitarismo		filosofia	Hanna Arendt1951
+836	1957		Etica a Nicomano		filosofia	Aristoteles1349
+837	1060		Crepúsculo		Romance Fantastico	Stephenie Meyer2005
+838	1850		La ladrona de libros		Aventura	Markus Zusak1987
+839	1223		El medico		Novela	Noah Gordon1872
+841	1883		El capital		filosofia	de Karl Marx1867
+843	1243		Ciberiada		Novela	Stanislaw Lem1889
+844	1419		American Gods		Ficcion	Neil Gaiman1998
+846	1812		Robinson Crusoe		Novela 	Daniel Defoe1988
+847	1702		Zion		romance	Ximena Renzo2015
+848	1888		Sapiens		filosofia	Yuval Noah Harari2011
+849	1943		Crítica de la razón pura		filosofia	Immanuel Kant1781
+855	1204		El ultimo Dickens		Novela	Matthew Pearl1965
+856	1201		La ciudad de los libros sonadores		Aventura	Walter Moers1871
+857	1250		El abrazo		misterio	Lygia Bojunga1887
+858	1813		Las crónicas de Narnia El león la bruja y el armario		Fantasia	C. S. Lewis1950
+859	1421		Anatomia del amor		Romance	Ava Reed2020
+860	1710		En el camino		Misterio 	Jack Kerouac1989
+861	1148		El sobrino del mago		infantil	C. S. Lewis1955
+863	1971		El diario de Anna Frank		Historico 	Anna Frank1967
+864	1225		Peluche		infantil	Shirley Hughes1977
+865	1349		Un verano tenebroso		Terror	Dan Simmons2007
+866	1008		Dracula		Novela	Bram Stoker1675
+867	1704		El retrato de Dorian Gray		Novela	Oscar Wilde2002
+868	1537		Arde bruja arde!		Terror	Abraham Merritt1955
+869	1202		El guardian entre el centeno		Aventura	J. D. Salinger1992
+870	1989		Juego de tronos		Fantasía 	George R.R.Martin1987
+871	1282		La comerciante de libros		Drama	Brenda Vantrease1997
+872	1664		Boulevard		Romance	Diana Velázquez2017
+873	1693		El psicoanalista		Novela	John Katzenbach1976
+874	1753		Fundamentación de la metafísica de las costumbres		filosofia	Immanuel Kant1996
+875	1900		Las uvas de la ira		Historico	John Steinbeck1781
+876	1188		Signatura		fantasia	Sophie Divry2018
+877	1998		La pequena vendedora de prosa		Drama	Daniel Pennac2000
+878	1129		Filosofía de la elocuencia		filosofia	Antonio de Capmany y de Montpalau1983
+880	1562		Los pequenos macabros		Drama	Edward Gorey1989
+881	1529		Ginger		drama	Ximena Renzo2017
+882	1607		Los pilares de la tierra		Romance	Ken Follett1991
+883	1468		Los Miedos de Ethan		Novela	Darlis Stefany2013
+885	1032		Las mil y una noches		religioso	Anonimo200
+886	1095		Poema de Gilgamesh		religioso	Anonimo1500
+887	1059		La vida contigo		Romance	Laura Delgado2015
+889	1825		Little Women		Novela	Louisa May Alcott2015
+890	1020		Los dialogos de Platon		filosofia	platon1387
+891	1283		Los bebedores de tinta		fantasia	Eric Sanvoisin1992
+892	1667		Medea		aventura	Eurípides431
+893	1142		La ladrona de libros		Novela	Markus Zusak1987
+894	1985		Alta fidelidad		Novela	Nick Hornby1890
+895	1256		El viaje a la felicidad: Las nuevas claves cientificas		Aventura	Eduard Punset2007
+896	1874		Los libros y la libertad		Drama	Emilio Lledo1982
+897	1910		Snowcrash		Ciencia ficción y fantasia	Neal Stephenson2016
+898	1970		Un viejo que leia novelas de amor		Novela	Luis Sepulveda1972
+900	1044		El Principito		Aventura	Antoine de Saint Exupery1992
+901	1308		Los versos satánicos		Novela	Salman Rushdie1988
+902	1560		Mendel el de los libros		fantasia	Stefan Zweig1962
+904	1403		Vendida		Novela	Axael Velasquez2018
+905	1261		Me llamo Rojo		fantasia	Orhan Pamuk1998
+907	1760		Melmoth el errabundo		Terror	Charles Robert Maturin1955
+908	1221		El hombre ilustrado		Misterio	Ray Bradbury1880
+909	1453		Como una novela		Drama	Daniel Pennac1887
+911	1902		Juego de tronos		Fantasía 	George R.R.Martin1987
+912	1680		La guerra no tiene rostro de mujer		Novela	Svetlana Aleksievich1901
+914	1405		A través de ti		Novela	Ariana Godoy2018
+915	1305		La biblioteca de los libros perdidos		Drama	Alexander Pechmann1989
+918	1668		Firmin		Aventura	Sam Savage2005
+919	1231		Heist		Romance	Ariana Godoy2016
+920	1122		El hijo de la bestia		Terror	Graham Masterton1978
+921	1232		Los origenes del totalitarismo		drama	de Hannah Arendt1995
+922	1941		El caballo y el muchacho		infantil	C. S. Lewis1954
+927	1956		A través de la lluvia		Romance	Ariana Godoy2012
+928	1299		El rey rata		Terror	China Mieville2009
+929	1120		La ternura del dragon		Aventura	Ignacio Martinez de Pison2016
+930	1521		¡Qué risa de huesos!		infantil	Allan y Janet Ahlberg1980
+931	1749		Ficciones		Thriller 	Jorge Luis Borges1892
+932	1807		La letra pequena		Romance	Lauren Asher2018
+933	1625		La ideología de Star Wars		drama	Fernando Ángel2017
+934	1574		El ano de la liebre		Historia	Arto Paasilinna2001
+935	1485		Paraiso Perdido		Novela	John Milton1990
+936	1980		El fantasma de la opera		Terror	Gastón Leroux1896
+938	1803		Apocalipsis Z Los dias oscuros		Terror	Manuel Loureiro2010
+939	1918		La peste		Ficcion	Albert Camus1885
+940	1205		Peligros y verdades		Novela	Alex Mírez2017
+943	1047		El libro flotante		Novela	Michelle Lovric1986
+944	1370		A la conquista de la felicidad		drama	Bertrand Russell1930
+946	1815		Ideología y aparatos ideológicos de Estado		filosofia	Louis Althusser2019
+947	1277		Toba Tek Singh		Drama	Saadat Hasan Manto1955
+948	1930		La asesina ilustrada		Aventura	Enrique Vila Matas2006
+951	1071		Hoyos		Ciencia ficcion y fantasia 	Louis Sachar1999
+952	1445		El cuento número trece		Aventura	Diane Setterfield1991
+953	1077		El noveno libro		Aventura	Mikel Alvira1975
+954	1981		La devocion del sospechoso X		Terror	Keigo Higashimo1969
+955	1709		Psicosis		Terror	Robert Bloch2018
+956	1390		La nausea		Terror	Jean Paul Sartre1993
+957	1296		La Odisea		Novela	Homero1300
+959	1739		La brujula dorada		Ciencia ficcion y fantasia 	Philip Pullman1995
+960	1443		Historia del Campesino Elocuente		aventura	cuento tradicional egipcio2000
+961	1713		En busca del tiempo perdido		Aventura	Marcel Proust1903
+962	1293		La devoción del sospechoso X		Terror	Keigo Higashimo1868
+964	1106		Algun dia seremos mejor que esto		drama	Flor M. Salvador2016
+967	1579		Wonder		Fantasia	R .J. Palacio1968
+968	1734		Middlemarch		fantasia	George Eliot1872
+970	1035		Leviatan		Aventura	Paul Auster1986
+971	1368		Panchatantra		fantasia	Vishnu Sharma300
+972	1171		Donde viven los monstruos		infantil	Maurice Sendak1963
+975	1869		Arizona in Love		Romance	Carmen M. Darie2022
+976	1510		Al Faro		aventura	Virginia Woolf1927
+977	1531		El horror vuelve a Amityville		Terror	Jay Anson1976
+978	1608		La última batalla		infantil	C. S. Lewis1956
+980	1571		La Opción Correcta		romance	Violeta Boyd2016
+981	1534		Cautivando a Ashton: BG.5		drama	Darlis Stefany2015
+982	1043		Frankenstein		Terror	Mary Shelley1896
+983	1781		Ética demostrada según el orden geométrico		filosofia	Baruj Spinoza1677
+984	1896		Ramayana		Novela	atribuido a Valmiki6
+985	1972		Para leer al anochecer		Terror 	Charles Dickens1967
+988	1320		Robinson Crusoe		aventura	Daniel Defoe1719
+989	1011		La catedral del mar		Novela	Ildefonso Falcones1994
+991	1788		David Copperfield		Novela	Charles Dickens2012
+992	1897		Si alguna vez dijeramos adios		romane	Flor M. Salvador2016
+993	1952		Rebelion en la granja		Aventura	George Orwell1779
+994	1601		Ancho Mar de los Sargazos		fantasia	Jean Rhys1966
+995	1151		La guardia de Jonas		Terror	Jack Cady1956
+996	1158		Si las personas fueran constelaciones		romance	Flor M. Salvador2012
+998	1324		Las aventuras de Tom Sawyer		Aventura	Mark Twain1887
+999	1959		Flat Stanley		infantil	Jeff Brown1964
+1000	1431		Metafisica de los tubos		Reflexivo	Amelie Nothomb2002
+1001	1191		El huésped		romance	kendymadness2018
